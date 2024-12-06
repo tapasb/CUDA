@@ -29,3 +29,7 @@ The GPU implementation provides a significant speedup compared to a CPU-based im
 3.  Run the executable.
 
 This will generate a grayscale version of the input image and display the processing time.
+
+## Example
+
+![Color (Left) vs. Grayscale (Right)](Output.png)
